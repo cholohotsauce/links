@@ -37,3 +37,6 @@
 - Cmd-T (open a new tab)
 - Ctrl-cmd-Q (inmediatly locks screen)
 - Option-shift-cmd-delete (empty the trash without confirmation dialog)
+
+# Link to Cli Commands:
+- [CLI commands](Docs/cli.md)
